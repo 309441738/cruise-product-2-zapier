@@ -1,0 +1,10 @@
+{
+  "title": "cruise-product",
+  "description": "探索各种邮轮产品，轻松找到适合您的旅行需求。通过多维度过滤，快速筛选出理想的邮轮。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
